@@ -5,7 +5,7 @@ using namespace std;
  * Autor: Juan Pablo Camargo Lasso (juancholasso)
  * UEB - UNAL
  * 
- * The Problem 3n+1 - UVa 100
+ * The Problem 3n+1 - UVa #100
  */
 
 int main(){
